@@ -54,10 +54,6 @@ The project follows a standard Maven structure:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Contact
 
-For any queries, please contact [Your Name](mailto:your.email@example.com).
+For any queries, please contact [Saish](mailto:saishkulkarni7@gmail.com).
